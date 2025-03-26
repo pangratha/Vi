@@ -1,0 +1,364 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+#header{
+    background-color: rgba(11, 22, 179, 0.877);
+    width: 100%;
+}
+.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.menu li{
+    float: right;
+}
+.menu li a{
+    display: block;
+    color: white;
+    padding: 15px 17px;
+    text-align:center;
+    text-decoration: none;
+    margin: auto;
+}
+.menu li a:hover{
+    background-color: rgb(255, 196, 0);
+}
+.header1{
+    background-color: rgb(4, 6, 88);
+    width: 100%;
+    height: 300px;
+}
+.go{
+    width: 70%;
+    margin: auto;
+    padding: 50px 50px;
+}
+.go h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.go p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(255, 251, 0);
+    text-align: center;   
+}
+#bodys{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 1600px;
+}
+.bodys1{
+    width: 70%;
+    margin: auto;
+    padding: 25px;
+}
+.bodys1 h1{
+    color: white;
+    text-align: center;
+}
+.text{
+    background-color: white;
+    width: 24%;
+    margin: auto;
+    height: 5px;
+}
+
+.video{
+    width: 100%;
+    margin: auto;
+}
+.video1{
+    width:90%;
+    margin: auto;
+    border-bottom: 15px solid rgb(255, 0, 0);
+}
+.video2{
+    text-align: center;
+    background-color: red;
+    clip-path: polygon(80% 0, 100% 100%, 0 100%, 0 0);
+    width: 15%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #ffffff;
+    padding: 1px 1px;
+}
+
+.picture{
+    
+    width: 90%;
+    height: 650px;
+    margin: auto;
+    display: flex;
+    padding: 15px;  
+}
+.picture1{
+    background-color: white;
+    background-image: url(3img.JPG);
+    background-size: cover;
+    width: 33%;
+    border-style: solid ;
+    border-width: 10px; 
+    
+}
+.pic{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 23vh;
+}
+.pic h1{
+    font-size: 35px;
+}
+.pic p{
+    font-size: 30px;
+}
+.picture2{
+    background-color: rgb(255, 255, 255);
+    background-image: url(2img.JPG);
+    background-size: cover;
+    width: 33%;
+    border-style:  solid ;
+    border-width: 10px;
+}
+.pic1{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 20vh;
+}
+.pic1 h1{
+    font-size: 35px;
+}
+.pic1 p{
+    font-size: 30px; 
+}
+.picture3{
+    background-color: rgb(255, 255, 255);
+    background-image: url(1img.JPG);
+    background-size: cover;
+    width: 33%;
+    border-style: solid ;
+    border-width: 10px;
+}
+.pic2{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 25vh;
+}
+.pic2 h1{
+    font-size: 35px;
+}
+.pic2 p{
+    font-size: 30px;
+}
+
+.picture11{
+    
+    width: 90%;
+    height: 650px;
+    margin: auto;
+    display: flex;
+    padding: 15px;  
+}
+.picture12{
+    background-color: white;
+    background-image: url(4img.JPG);
+    background-size: cover;
+    width: 33%;
+    border-style: solid ;
+    border-width: 10px; 
+    
+}
+.pic11{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 23vh;
+}
+.pic11 h1{
+    font-size: 35px;
+}
+.pic11 p{
+    font-size: 30px;
+}
+.picture13{
+    background-color: rgb(255, 255, 255);
+    background-image: url(5img.JPG);
+    background-size: cover;
+    width: 33%;
+    border-style:  solid ;
+    border-width: 10px;
+}
+.pic12{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 20vh;
+}
+.pic12 h1{
+    font-size: 35px;
+}
+.pic12 p{
+    font-size: 30px; 
+}
+.picture14{
+    background-color: rgb(255, 255, 255);
+    background-image: url(6img.JPG);
+    background-size: cover;
+    width: 33%;
+    border-style: solid ;
+    border-width: 10px;
+}
+.pic13{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 25vh;
+}
+.pic13 h1{
+    font-size: 35px;
+}
+.pic13 p{
+    font-size: 30px;
+}
+
+.video{
+    width: 100%;
+    margin: auto;
+}
+.video1{
+    width:90%;
+    margin: auto;
+    border-bottom: 15px solid rgb(255, 0, 0);
+}
+.video2{
+    text-align: center;
+    background-color: red;
+    clip-path: polygon(80% 0, 100% 100%, 0 100%, 0 0);
+    width: 15%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #ffffff;
+    padding: 1px 1px;
+}
+
+.picture6{ 
+    width: 90%;
+    height: 1000px;
+    margin: auto;
+    display: flex;
+    padding: 15px;  
+}
+.picture7{
+    background-color: white;
+    background-image: url(7img.JPG);
+    background-size: cover;
+    width: 50%;
+    border-style: solid ;
+    border-width: 10px; 
+    
+}
+.pic6{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 23vh;
+}
+.pic6 h1{
+    font-size: 35px;
+}
+.pic6 p{
+    font-size: 30px;
+}
+.picture8{
+    background-color: rgb(255, 255, 255);
+    background-image: url(8img.JPG);
+    background-size: cover;
+    width: 50%;
+    border-style:  solid ;
+    border-width: 10px;
+}
+.pic7{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: center;
+    margin-top: 20vh;
+}
+.pic7 h1{
+    font-size: 35px;
+}
+.pic7 p{
+    font-size: 30px; 
+}
+.button{
+   
+    width: 100%;
+    height: 500px;
+    padding:20px;  
+} 
+.button a:link, a:visited {
+    background-color: #2e1666;
+    color: white;
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+    width: 8%;
+}
+.button a:hover, a:active {
+    background-color: rgb(0, 55, 255);
+    
+}
+.finish{
+    background-color: rgb(5, 5, 75);
+    font-family: 'Times New Rman', Times, serif;
+    font-size: 40px;
+    width: 100%;
+    height: 500px;
+    padding: 0;
+}
+.finish h1{
+    color: white;
+    text-align: center; 
+    padding-top:  100px;
+}
+.finish p{
+    color: white;
+    text-align: center;
+    padding:0;
+  
+}
+.icon {
+    margin: auto;
+    width: 30%;
+    display: flex;
+}
+.finish1 span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    display: block;
+    color: white;
+    padding: 15px 17px;
+    text-align:center;
+    text-decoration: none;
+    margin: auto;
+}
